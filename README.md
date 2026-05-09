@@ -1,4 +1,9 @@
 # ai-social-good-project
+## Team Members
+- Johann De Boda
+- Anton Bohlin
+- Aryaman Suri
+
 Problem — Who is affected, and what specifically breaks down for them today?
 - The individuals that are affected are more specifically those dealing with homelessness alongside the individuals that live in the areas that are affected by homelesness. What breaks down for them today is the expensive living costs and the fast-changing field of the job market leading to layoffs making it not only hard for people to afford housing but to be able to gather capital to afford housing. This then leads to issues regarding homeless people causing situations that could be unwanted by homeowners but when homeless people are kicked out of the area, they will just move to a different area and cause the same issue.
 
